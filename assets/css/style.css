@@ -1920,3 +1920,9 @@ opacity: 1;
   background: #e9204f;
   border: 2px solid #e9204f;
 }
+
+.contact-section{
+  position: relative;
+  z-index: 3;
+
+}
