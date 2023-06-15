@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Project Info
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Website Name: Portfolio Aria Shabry
+Author: Aria Shabry
